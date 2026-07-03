@@ -26,6 +26,5 @@ A rich-feature WhatsApp bot built for speed and versatility.
 ➤ ⑲ 𝐀𝐮𝐭𝐨 𝐑𝐞𝐚𝐝 𝐌𝐞𝐬𝐬𝐚𝐠𝐞𝐬 📖
 _𝐀𝐥𝐥 𝐟𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐜𝐚𝐧 𝐛𝐞 𝐭𝐮𝐫𝐧𝐞𝐝 𝐨𝐟𝐟 𝐚𝐭 𝐰𝐢𝐥𝐥 𝐨𝐫 𝐚𝐜𝐜𝐨𝐫𝐝𝐢𝐧𝐠 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐩𝐫𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞𝐬_
  *Service legitimacy for 1MONTH full @affordable price*✅✅🔥
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70000&background=FF000000&width=435&lines=CLICK+HERE+TO+PAY+%F0%9F%91%87%F0%9F%91%87%F0%9F%91%87%F0%9F%91%87" alt="Typing SVG" /></a>
-https://paystack.shop/pay/hzdydfdk8p
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70000&background=FF000000&width=435&lines=CLICK+HERE+TO+PAY+%F0%9F%91%87%F0%9F%91%87%F0%9F%91%87%F0%9F%91%87" alt="Typing SVG" /></a>https://paystack.shop/pay/hzdydfdk8p
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70000&background=25FF3400&width=435&lines=DESIGN+BY+%E2%99%A4FLEKO%E2%99%A4" alt="Typing SVG" /></a>
