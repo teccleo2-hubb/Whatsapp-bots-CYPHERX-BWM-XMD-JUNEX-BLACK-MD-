@@ -4,7 +4,7 @@ A rich-feature WhatsApp bot built for speed and versatility.
   <img src="https://i.ibb.co/yFYtjnm4/0099919cf3fa.jpg" alt="Banner Image">
 </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=1000&color=00F77D&background=00FFB200&width=435&lines=CYPHERX-BWM-XMD-JUNEX-BLACK-MD-And+more" alt="Typing SVG" /></a>
-𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧 ꧁ 𝑭𝑬𝑨𝑻𝑼𝑹𝑬𝑺 𒆜𓊉꧂
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=2DF72B&background=25FF3400&width=435&lines=%F0%9D%97%AA%F0%9D%97%9B%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%A6%F0%9D%97%94%F0%9D%97%A3%F0%9D%97%A3+%F0%9D%97%95%F0%9D%97%A2%F0%9D%97%A7" alt="Typing SVG" /></a> ꧁ 𝑭𝑬𝑨𝑻𝑼𝑹𝑬𝑺 𒆜𓊉꧂
 ➤ ① 𝐀𝐮𝐭𝐨 𝐕𝐢𝐞𝐰 𝐒𝐭𝐚𝐭𝐮𝐬 👁️
 ➤ ② 𝐒𝐞𝐞 */recover* 𝐃𝐞𝐥𝐞𝐭𝐞𝐝 𝐌𝐞𝐬𝐬𝐚𝐠𝐞𝐬 🗑️
 ➤ ③ 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐒𝐨𝐧𝐠𝐬 🎧
@@ -25,8 +25,7 @@ A rich-feature WhatsApp bot built for speed and versatility.
 ➤ ⑱ 𝐀𝐮𝐭𝐨 𝐁𝐢𝐨 📝
 ➤ ⑲ 𝐀𝐮𝐭𝐨 𝐑𝐞𝐚𝐝 𝐌𝐞𝐬𝐬𝐚𝐠𝐞𝐬 📖
 _𝐀𝐥𝐥 𝐟𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐜𝐚𝐧 𝐛𝐞 𝐭𝐮𝐫𝐧𝐞𝐝 𝐨𝐟𝐟 𝐚𝐭 𝐰𝐢𝐥𝐥 𝐨𝐫 𝐚𝐜𝐜𝐨𝐫𝐝𝐢𝐧𝐠 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐩𝐫𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞𝐬_
-https://wa.me/message/ODTCK4AXUVZLD1 @⁨all⁩ 
-
  *Service legitimacy for 1MONTH full @affordable price*✅✅🔥
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70000&background=FF000000&width=435&lines=CLICK+HERE+TO+PAY+%F0%9F%91%87%F0%9F%91%87%F0%9F%91%87%F0%9F%91%87" alt="Typing SVG" /></a>
 https://paystack.shop/pay/hzdydfdk8p
+https://git.io/typing-svg
