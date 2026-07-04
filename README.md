@@ -35,7 +35,7 @@ This project uses **Paystack** to process mobile money payments (M-Pesa & Airtel
 
 Click the button below to go to the payment page:
 
-[![Activate Now](https://img.shields.io/badge/🚀_ACTIVATE_NOW-00b206?style=for-the-badge&logo=paystack&logoColor=white)](https://https://github.com/teccleo2-hubb/)
+[![Activate Now](https://img.shields.io/badge/🚀_ACTIVATE_NOW-00b206?style=for-the-badge&logo=paystack&logoColor=white)](https://github.com/teccleo2-hubb/Whatsapp-bots-CYPHERX-BWM-XMD-JUNEX-BLACK-MD-/blob/main/README.md/)
 
 ---
 
