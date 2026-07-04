@@ -27,37 +27,9 @@ A rich-feature WhatsApp bot built for speed and versatility.
 _𝐀𝐥𝐥 𝐟𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐜𝐚𝐧 𝐛𝐞 𝐭𝐮𝐫𝐧𝐞𝐝 𝐨𝐟𝐟 𝐚𝐭 𝐰𝐢𝐥𝐥 𝐨𝐫 𝐚𝐜𝐜𝐨𝐫𝐝𝐢𝐧𝐠 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐩𝐫𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞𝐬_
  *Service legitimacy for 1MONTH full @affordable price*✅✅🔥
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70000&background=FF000000&width=435&lines=CLICK+HERE+TO+PAY+%F0%9F%91%87%F0%9F%91%87%F0%9F%91%87%F0%9F%91%87" alt="Typing SVG" /><
-## 💳 Payment & Activation System
-
-This project uses **Paystack** to process mobile money payments (M-Pesa & Airtel Money) for instant account activation.
-
-### 🔗 Activate Your Account
-
-Click the button below to go to the payment page:
-
-[![Activate Now](https://img.shields.io/badge/🚀_ACTIVATE_NOW-00b206?style=for-the-badge&logo=paystack&logoColor=white)](https://github.com/teccleo2-hubb/Whatsapp-bots-CYPHERX-BWM-XMD-JUNEX-BLACK-MD-/blob/main/README.md/)
-
----
-
-### ⚙️ Core Integration Code
-
-Below is the simple JavaScript used to trigger the payment popup when users click "Activate":
-
-```javascript
-// Trigger Paystack popup for M-Pesa / Airtel Money
-const handler = PaystackPop.setup({
-    key: 'pk_live_...',                // Your Live Public Key
-    email: phone + '@activate.pay',    // Auto-generates email
-    amount: 50000,                     // KES 500 (in kobo)
-    currency: 'KES',
-    phone: phone,                      // User's mobile number
-    ref: 'ACT-' + Date.now(),          // Unique transaction ID
-    channels: ['mobile_money'],        // Only M-Pesa & Airtel Money
-    callback: (response) => {
-        alert('✅ Activated! Ref: ' + response.reference);
-        // Redirect user to dashboard/success page
-        // window.location.href = '/success.html';
-    }
-});
-handler.openIframe();                                                                                                                                                                                                                                                                           
+                                                                                                                                                                                                                                                                           <a href="https://paystack.shop/pay/bgm43bh9rk" target="_blank" rel="noopener noreferrer">
+    <button style="padding:15px 40px; font-size:18px; font-weight:bold; background:#00b206; color:white; border:none; border-radius:8px; cursor:pointer;">
+        🚀 Activate Now
+    </button>
+</a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70000&background=25FF3400&width=435&lines=DESIGN+BY+%E2%99%A4FLEKO%E2%99%A4" alt="Typing SVG" /></a>
