@@ -1,3 +1,4 @@
+[![Activate Now](https://img.shields.io/badge/🚀_ACTIVATE_NOW-00b206?style=for-the-badge&logo=paystack&logoColor=white)](https://your-username.github.io/your-repo/pay.html)
 # Whatsapp-bots-CYPHERX-BWM-XMD-JUNEX-BLACK-MD-
 A rich-feature WhatsApp bot built for speed and versatility.
 <p align="center">
