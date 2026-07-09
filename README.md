@@ -27,9 +27,98 @@ A rich-feature WhatsApp bot built for speed and versatility.
 _𝐀𝐥𝐥 𝐟𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐜𝐚𝐧 𝐛𝐞 𝐭𝐮𝐫𝐧𝐞𝐝 𝐨𝐟𝐟 𝐚𝐭 𝐰𝐢𝐥𝐥 𝐨𝐫 𝐚𝐜𝐜𝐨𝐫𝐝𝐢𝐧𝐠 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐩𝐫𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞𝐬_
  *Service legitimacy for 1MONTH full @affordable price*✅✅🔥
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70000&background=FF000000&width=435&lines=CLICK+HERE+TO+PAY+%F0%9F%91%87%F0%9F%91%87%F0%9F%91%87%F0%9F%91%87" alt="Typing SVG" /><
-                                                                                                                                                                                                                                                                           <a href="https://paystack.shop/pay/bgm43bh9rk" target="_blank" rel="noopener noreferrer">
-    <button style="padding:15px 40px; font-size:18px; font-weight:bold; background:#00b206; color:white; border:none; border-radius:8px; cursor:pointer;">
+                                                                                                                                                                                                                                             
+</a>## 💳 Payment Integration
+
+This project uses **Paystack** to process mobile money payments (M-Pesa & Airtel Money) for instant account activation.
+
+### 🚀 How It Works
+
+1. Enter the amount you want to pay.
+2. Enter your phone number (M-Pesa / Airtel Money).
+3. Click **Activate Now** and confirm the payment on your phone.
+
+---
+
+### 💻 Live Demo
+
+Click the button below to try it now:
+
+[![Activate Now](https://img.shields.io/badge/🚀_ACTIVATE_NOW-00b206?style=for-the-badge&logo=paystack&logoColor=white)](https://your-username.github.io/your-repo/)
+
+---
+
+### ⚙️ Full JavaScript Code (With Amount Input)
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pay with M-Pesa / Airtel</title>
+    <script src="https://js.paystack.co/v1/inline.js"></script>
+</head>
+<body>
+
+    <h2>💰 Enter Payment Details</h2>
+
+    <label>📱 Phone Number:</label>
+    <input type="tel" id="phoneInput" placeholder="2547XXXXXXXX" value="254"><br><br>
+
+    <label>💵 Amount (KES):</label>
+    <input type="number" id="amountInput" placeholder="Enter amount" min="1" value="100"><br><br>
+
+    <button id="payBtn" style="padding:15px 40px; background:#00b206; color:white; border:none; border-radius:8px; font-size:18px; font-weight:bold; cursor:pointer;">
         🚀 Activate Now
     </button>
-</a>
+
+    <script>
+        // 🔐 YOUR LIVE PUBLIC KEY (Safe to expose)
+        const PAYSTACK_PUBLIC_KEY = 'pk_live_e8288817a03cf436cb049';
+
+        document.getElementById('payBtn').addEventListener('click', function() {
+            // Get user inputs
+            const phone = document.getElementById('phoneInput').value.trim();
+            const amount = document.getElementById('amountInput').value.trim();
+
+            // Validate inputs
+            if (!phone || phone.length < 12) {
+                alert('⚠️ Please enter a valid phone number starting with 254 (e.g., 254712345678).');
+                return;
+            }
+
+            if (!amount || amount <= 0) {
+                alert('⚠️ Please enter a valid amount.');
+                return;
+            }
+
+            // Convert amount to kobo (1 KES = 100 kobo)
+            const amountInKobo = parseInt(amount) * 100;
+
+            // Generate unique transaction reference
+            const reference = 'TX-' + Date.now() + '-' + Math.floor(Math.random() * 10000);
+
+            // Initialize Paystack popup
+            let handler = PaystackPop.setup({
+                key: PAYSTACK_PUBLIC_KEY,
+                email: phone + '@mobile.pay',    // Auto-generate email
+                amount: amountInKobo,            // User-entered amount
+                currency: 'KES',
+                phone: phone,                    // Mobile money number
+                ref: reference,
+                channels: ['mobile_money'],      // M-Pesa & Airtel Money only
+                callback: function(response) {
+                    alert('✅ Payment of KES ' + amount + ' successful! Ref: ' + response.reference);
+                    // Redirect to success page:
+                    // window.location.href = 'https://your-site.com/success.html';
+                },
+                onClose: function() {
+                    alert('Payment window closed.');
+                }
+            });
+            handler.openIframe();
+        });
+    </script>
+
+</body>
+</html>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70000&background=25FF3400&width=435&lines=DESIGN+BY+%E2%99%A4FLEKO%E2%99%A4" alt="Typing SVG" /></a>
