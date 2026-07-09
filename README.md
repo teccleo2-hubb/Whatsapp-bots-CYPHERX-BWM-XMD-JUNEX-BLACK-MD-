@@ -26,7 +26,7 @@ A rich-feature WhatsApp bot built for speed and versatility.
 
 ## 💳 Activate Your Bot
 
-Click the button below to activate your bot via M-Pesa or Airtel Money:
+Click the button below to activate your bot via **M-Pesa** or **Airtel Money**:
 
 [![Activate Now](https://img.shields.io/badge/🚀_ACTIVATE_NOW-00b206?style=for-the-badge&logo=paystack&logoColor=white)](https://teccleo2-hubb.github.io/Whatsapp-bots-CYPHERX-BWM-XMD-JUNEX-BLACK-MD-/pay.html)
 
