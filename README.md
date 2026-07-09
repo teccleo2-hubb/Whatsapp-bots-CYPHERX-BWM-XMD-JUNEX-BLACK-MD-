@@ -56,21 +56,16 @@ Click the button below to activate your bot via **M-Pesa** or **Airtel Money**:
 ## 🚀 Deployment
 
 ### Deploy on Heroku
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=)
+MAKE PAYMENT TO DEPLOY 
 
-### Deploy on Railway
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template)
 
-### Deploy on Render
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 
----
 
 ## 📞 Support
 
 For any payment or bot-related issues, contact us:
 
-- 📧 Email: support@beaconadvisory.co.ke
+- 📧 Email: steffenjames06@gmail.com 
 - 📱 Phone: +254 7XX XXX XXX
 
 ---
