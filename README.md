@@ -28,7 +28,7 @@ A rich-feature WhatsApp bot built for speed and versatility.
 
 Click the button below to activate your bot via **M-Pesa** or **Airtel Money**:
 
-[![Activate Now](https://img.shields.io/badge/🚀_ACTIVATE_NOW-00b206?style=for-the-badge&logo=https://paystack.shop/pay/nm5e-6eej-)
+[![Activate Now](https://img.shields.io/badge/🚀_ACTIVATE_NOW-https://paystack.shop/pay/nm5e-6eej-)
 
 > **Service legitimacy for 1 month full @ affordable price** ✅✅🔥
 
