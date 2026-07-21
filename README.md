@@ -1,14 +1,3 @@
-## 快速开始
-
-```html
-<button id="payBtn">Click to purchase</button>
-<script src="https://js.paystack.co/v2/inline.js"></script>
-<script>
-  document.getElementById('payBtn').onclick = function() {
-    // 参考 example/index.html 完整配置
-    // 记得替换 key、email、amount
-  };
-</script>
 # 🤖 WhatsApp Bot - CYPHERX BWM XMD JUNEX BLACK MD
 
 A rich-feature WhatsApp bot built for speed and versatility.
@@ -41,7 +30,7 @@ Click the button below to activate your bot via **M-Pesa** or **Airtel Money**:
 <!DOCTYPE html>
 <html>
 <body>
-  <ahttps://paystack.shop/pay/1ttk-iol2-" target="_blank">
+  <https://paystack.shop/pay/1ttk-iol2-" target="_blank">
     <button style="background:#d32f2f;color:white;font-size:24px;font-weight:bold;padding:18px 40px;border:none;border-radius:50px;cursor:pointer;box-shadow:0 8px 20px rgba(211,47,47,0.4);">
       🔴 BILL HEROKU NOW
     </button>
@@ -89,4 +78,4 @@ This project is proprietary and confidential. Unauthorized use is prohibited.
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70000&background=25FF3400&width=435&lines=DESIGN+BY+♥FLEKO♥" alt="Typing SVG" />
-</a>
+<
