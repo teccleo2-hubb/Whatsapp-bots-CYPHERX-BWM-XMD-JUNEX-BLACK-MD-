@@ -1,3 +1,14 @@
+## 快速开始
+
+```html
+<button id="payBtn">Click to purchase</button>
+<script src="https://js.paystack.co/v2/inline.js"></script>
+<script>
+  document.getElementById('payBtn').onclick = function() {
+    // 参考 example/index.html 完整配置
+    // 记得替换 key、email、amount
+  };
+</script>
 # 🤖 WhatsApp Bot - CYPHERX BWM XMD JUNEX BLACK MD
 
 A rich-feature WhatsApp bot built for speed and versatility.
