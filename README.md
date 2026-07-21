@@ -30,7 +30,7 @@ Click the button below to activate your bot via **M-Pesa** or **Airtel Money**:
 <!DOCTYPE html>
 <html>
 <body>
-  <a href="https://paystack.shop/pay/nm5e-6eej-" target="_blank">
+  <ahttps://paystack.shop/pay/1ttk-iol2-" target="_blank">
     <button style="background:#d32f2f;color:white;font-size:24px;font-weight:bold;padding:18px 40px;border:none;border-radius:50px;cursor:pointer;box-shadow:0 8px 20px rgba(211,47,47,0.4);">
       🔴 BILL HEROKU NOW
     </button>
